@@ -8,4 +8,10 @@ namespace DataLayer;
 public interface IDataService
 {
     IList<Category> GetCategories();
+
+    int AddCategory(string name, string description);
+
+    bool DeleteCategory(int id);
+
+    IList<Product> GetProducts();
 }
