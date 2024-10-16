@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADOExample", "Livecode4\ADO
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFExample", "EFExample\EFExample.csproj", "{609D8137-D817-456A-99EE-35A1442DAA1A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DbApp", "DbApp\DbApp.csproj", "{21DADD2A-8E1B-4509-AA50-14DB892D078E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataLayer", "DataLayer\DataLayer.csproj", "{6A408F7A-BC19-4F60-B6C4-2C8BA903DBA0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{609D8137-D817-456A-99EE-35A1442DAA1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{609D8137-D817-456A-99EE-35A1442DAA1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{609D8137-D817-456A-99EE-35A1442DAA1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21DADD2A-8E1B-4509-AA50-14DB892D078E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21DADD2A-8E1B-4509-AA50-14DB892D078E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21DADD2A-8E1B-4509-AA50-14DB892D078E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21DADD2A-8E1B-4509-AA50-14DB892D078E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A408F7A-BC19-4F60-B6C4-2C8BA903DBA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A408F7A-BC19-4F60-B6C4-2C8BA903DBA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A408F7A-BC19-4F60-B6C4-2C8BA903DBA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A408F7A-BC19-4F60-B6C4-2C8BA903DBA0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
