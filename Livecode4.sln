@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Livecode4", "Livecode4\Livecode4.csproj", "{262F2742-C743-4188-9B75-CBDD98BE1A31}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADOExample", "Livecode4\ADOExample.csproj", "{262F2742-C743-4188-9B75-CBDD98BE1A31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFExample", "EFExample\EFExample.csproj", "{609D8137-D817-456A-99EE-35A1442DAA1A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{262F2742-C743-4188-9B75-CBDD98BE1A31}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{262F2742-C743-4188-9B75-CBDD98BE1A31}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{262F2742-C743-4188-9B75-CBDD98BE1A31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{609D8137-D817-456A-99EE-35A1442DAA1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{609D8137-D817-456A-99EE-35A1442DAA1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{609D8137-D817-456A-99EE-35A1442DAA1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{609D8137-D817-456A-99EE-35A1442DAA1A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
